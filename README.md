@@ -1,2 +1,2 @@
 # DBMS-Project
-A DBMS project on railway management system using SQL.
+A DBMS project on railway management system using Structured Query Language.
